@@ -4,7 +4,6 @@
 
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.x-363636?style=for-the-badge&logo=solidity)
 ![Network](https://img.shields.io/badge/Network-Sepolia_Testnet-627EEA?style=for-the-badge&logo=ethereum)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Deployed_&_Verified-10B981?style=for-the-badge)
 
 ---
@@ -72,8 +71,6 @@ SkillChain replaces all of this with a single smart contract on the Ethereum blo
 | **Language** | Solidity 0.8.x |
 | **Network** | Ethereum Sepolia Testnet |
 | **Contract Address** | `0x172DC774504401B19de93DDe053002B70833E66f` |
-| **Deployer Wallet** | `0x904223d667130A4172C640b02a83C8296F76C2CF` |
-| **Deployment Block** | 10351879 |
 | **Compiler** | 0.8.31+commit.fd3a2265 |
 | **Verification** | ✅ Sourcify \| ✅ Blockscout \| ✅ Routescan |
 
@@ -216,38 +213,6 @@ Follow this order for testing:
 
 ---
 
-## 📁 Repository Structure
-
-```
-SkillChain/
-│
-├── contracts/
-│   └── SkillChain.sol          # Main smart contract
-│
-├── report/
-│   └── SkillChain_Complete_CaseStudy.pdf   # Full Phase 1+2+3 report
-│
-├── diagrams/
-│   └── SkillChain_Architecture.png         # System architecture diagram
-│
-├── screenshots/
-│   ├── 01_metamask_sepolia_balance.png
-│   ├── 02_remix_compilation_success.png
-│   ├── 03_deploy_panel_sepolia.png
-│   ├── 04_metamask_deploy_confirmation.png
-│   ├── 05_contract_deployed_functions.png
-│   ├── 06_registerProject_confirmed.png
-│   ├── 07_endorseProject_logs_rep60.png
-│   ├── 08_getPlatformStats_result.png
-│   ├── 09_getReputation_result.png
-│   ├── 10_getUserPortfolio_result.png
-│   ├── 11_etherscan_contract_page.png
-│   └── 12_etherscan_transactions.png
-│
-└── README.md                   # This file
-```
-
----
 
 ## 🌐 Live Deployment
 
@@ -272,19 +237,6 @@ The contract is **live and verified** on Ethereum Sepolia Testnet.
 
 ---
 
-## 📚 Assignment Details
-
-| Field | Value |
-|---|---|
-| **Course** | Blockchain Technology |
-| **Module** | 3.1 |
-| **Semester** | 6th Semester — 2026 |
-| **Total Marks** | 60 |
-| **Phases** | Phase 1: Proposal (25) \| Phase 2: Implementation (60) \| Phase 3: Report (15) |
-| **Submission** | 1st March 2026 |
-
----
-
 ## 🛠️ Tech Stack
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
@@ -300,12 +252,6 @@ The contract is **live and verified** on Ethereum Sepolia Testnet.
 | Testnet | Ethereum Sepolia |
 | File Storage | IPFS via Pinata |
 | Explorer | Sepolia Etherscan |
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — feel free to fork, modify, and build on top of it.
 
 ---
 
