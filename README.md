@@ -12,7 +12,7 @@
 
 SkillChain is a decentralized on-chain portfolio registry where professionals can register their work, earn NFT skill badges, build a tamper-proof reputation score, and monetize their knowledge — all without any centralized platform.
 
-Built as part of the **Blockchain Technology Assignment — 6th Semester 2026**, this project demonstrates real-world application of Ethereum smart contracts, IPFS decentralized storage, and Web3 identity systems.
+This project demonstrates real-world application of Ethereum smart contracts, IPFS decentralized storage, and Web3 identity systems.
 
 ---
 
